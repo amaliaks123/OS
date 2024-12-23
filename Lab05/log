@@ -1,0 +1,26 @@
+pwdpwd: command not found
+/home/amaliaks/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+-bash: cd: /path/to/directory: No such file or directory
+mkdir: cannot create directory ‘/path’: Permission denied
+  File: example1.c
+  Size: 485       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 410936      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1286/amaliaks)   Gid: ( 1288/amaliaks)
+Access: 2024-12-22 18:07:46.891620289 +0200
+Modify: 2024-12-22 18:07:46.891620289 +0200
+Change: 2024-12-22 18:07:46.891620289 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+./source.txt
+./newname.txt
+./destination.txt
+tar: Lab05: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
